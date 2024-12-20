@@ -6,5 +6,7 @@ export default registerAs('app', () => {
     globalPrefix: process.env.APP_GLOBAL_PREFIX || '',
     isDev: process.env.NODE_ENV === 'development',
     isProd: process.env.NODE_ENV === 'production',
+
+    filePath: process.env.FILE_PATH || '',
   };
 });
