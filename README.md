@@ -1,5 +1,5 @@
-# nest-scaffold
+# nest-text-rw
 
-A nest project template I usually use（我平时使用的 NestJS 项目模版）
+通过接口修改某个文本文件，比如 .txt、.json 等.
 
 See👀: []()
